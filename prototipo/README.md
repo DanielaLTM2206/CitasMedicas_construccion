@@ -4,7 +4,7 @@ Este directorio alberga la implementación del **Prototipo Funcional de Software
 
 ---
 
-## 📂 Organización del Prototipo
+## Organización del Prototipo
 
 ```text
 prototipo/
@@ -23,7 +23,7 @@ prototipo/
 
 ---
 
-## 🖥️ Pantallas Modeladas según Wireframes
+## Pantallas Modeladas según Wireframes
 
 1. **Autenticación (RF-001, RF-002, RF-014):**
    - Formulario de Registro de Paciente en 2 pasos con validación de cédula y código de activación.

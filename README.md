@@ -7,7 +7,7 @@
 
 ---
 
-## 👥 Equipo de Trabajo
+## Equipo de Trabajo
 
 | Integrante | Rol Principal | Responsabilidades |
 | :--- | :--- | :--- |
@@ -19,7 +19,7 @@
 
 ---
 
-## 📋 Descripción del Proyecto
+## Descripción del Proyecto
 
 Plataforma web responsiva diseñada para optimizar y automatizar la gestión integral de citas médicas en el ámbito de **medicina general** para consultorios independientes. El sistema resuelve las principales ineficiencias de la práctica médica ambulatoria:
 
@@ -29,7 +29,7 @@ Plataforma web responsiva diseñada para optimizar y automatizar la gestión int
 
 ---
 
-## 🎯 Requisitos del Sistema
+## Requisitos del Sistema
 
 ### Catálogo de Requisitos Funcionales (RF)
 
@@ -70,7 +70,7 @@ Plataforma web responsiva diseñada para optimizar y automatizar la gestión int
 
 ---
 
-## 🗂️ Estructura del Repositorio
+## Estructura del Repositorio
 
 El repositorio se encuentra organizado de acuerdo con el ciclo de vida de la ingeniería de software y la arquitectura modular del prototipo:
 
@@ -126,7 +126,7 @@ CitasMedicas_construccion/
 
 ---
 
-## 🚀 Planificación y Cronograma de Sprints (Linear)
+## Planificación y Cronograma de Sprints (Linear)
 
 | Ciclo | Período | Objetivo y Entregables Clave |
 | :--- | :--- | :--- |
