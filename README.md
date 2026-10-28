@@ -93,8 +93,15 @@ CitasMedicas_construccion/
 │   ├── seeds/                          # Datos de prueba iniciales (usuarios, turnos, citas)
 │   └── functions/                      # Procedimientos, triggers de concurrencia y cron jobs
 │
-├── src/                                # Código Fuente del Prototipo Web Interactivo
-│   ├── README.md                       # Arquitectura y componentes del prototipo
+├── prototipo/                          # Entregable del Prototipo Funcional de Software
+│   ├── README.md                       # Documentación y catálogo de vistas del prototipo
+│   ├── css/                            # Hojas de estilo y temas visuales
+│   ├── js/                             # Controladores interactivos y datos mock
+│   ├── assets/                         # Recursos gráficos e imágenes del prototipo
+│   └── views/                          # Pantallas del prototipo por módulo (auth, paciente, medico, admin, simuladores)
+│
+├── src/                                # Código Fuente Base del Sistema Web Interactivo
+│   ├── README.md                       # Arquitectura y componentes del sistema
 │   ├── assets/                         # Recursos estáticos
 │   │   ├── css/                        # Sistema de diseño, tokens, glassmorphism y temas
 │   │   ├── js/                         # Utilidades y controladores transversales
