@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: postgres:17
+    container_name: citasmedicas-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: citasmedicas
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: citasmedicas_db
+    ports:
+      - "5434:5432"
+    volumes:
+      - citasmedicas_pgdata:/var/lib/postgresql/data
+
+volumes:
+  citasmedicas_pgdata:
